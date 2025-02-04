@@ -4,7 +4,7 @@
 - :bulb: :pencil2: 2 Master's Degree: History and Digital Humanities; Creative Writing
 - 💻 Just got into another Master's Degree: Data Science & AI from Evolve Academy!
 - 🤖 Interested in Natural Language Processing
-- 🌱 Currently learning Python
+- 🌱 Also learning Python at Udemy
 
 <!--
 **mancrurod/mancrurod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
