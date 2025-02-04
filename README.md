@@ -2,9 +2,9 @@
 
 - :books: Graduated in Hispanic Philology
 - :bulb: :pencil2: 2 Master's Degree: History and Digital Humanities; Creative Writing
-- :computer: Interested in Natural Language Processing
-- 🌱 Currently learning Python
 - 💻 Just got into another Master's Degree: Data Science & AI from Evolve Academy!
+- 🤖 Interested in Natural Language Processing
+- 🌱 Currently learning Python
 
 <!--
 **mancrurod/mancrurod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
