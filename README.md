@@ -14,14 +14,14 @@ I'm a **Data Analyst** with a strong background in **Linguistics**, **Digital Hu
 
 ## 🔧 Tools & Technologies
 
-`Python` · `Pandas` · `Matplotlib` · `Seaborn` · `SQL` · `NLP` · `OpenAI API` · `Genius API` · `BeautifulSoup` · `Git` · `Markdown` · `LaTeX`
+`Python` · `Pandas` · `Matplotlib` · `Seaborn` · `SQL` · `NLP` · `OpenAI API` · `Genius API` · `BeautifulSoup` · `Git` · `Markdown`
 
 ---
 
 ## 📌 Featured Projects
 
 - [Resume Optimization](https://github.com/mancrurod/Resume-Optimization): AI-powered pipeline to adapt resumes to job offers using LLMs.
-- [Scrape-The-Verse](https://github.com/mancrurod/Scrape-The-Verse): NLP + lyrics + storytelling. Bob Dylan meets Python.
+- [Scrape-The-Verse](https://github.com/mancrurod/Scrape-The-Verse): NLP + lyrics + storytelling. Bob Dylan & Taylor Swift meets Python.
 - [Script Spotycai](https://github.com/mancrurod/script_spotycai): Selenium-based scraper to automate music downloads.
 - [Complete Python Course](https://github.com/mancrurod/Complete_Python_Course): Exercises and solutions from a foundational Python course.
 
