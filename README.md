@@ -1,10 +1,11 @@
-# 👋 Hi, I'm Manuel Cruz Rodríguez
+# 👋 Manuel Cruz Rodríguez — Linguist turned Data Analyst
 
-I'm a **Junior Data Analyst** with a background in **Linguistics**, **Digital Humanities**, and **Natural Language Processing**. After graduating in Hispanic Philology, I completed two master’s degrees (in *Digital Humanities* and *Creative Writing*) and I'm currently pursuing a third in **Data Science & AI** at [Evolve Academy](https://evolveacademy.es).
+I'm a **Junior Data Analyst** with a background in **Linguistics**, **Digital Humanities**, and **Natural Language Processing**. After graduating in Hispanic Philology, I earned two master’s degrees (*Digital Humanities* and *Creative Writing*) and I'm currently finishing a third in **Data Science & AI** at [Evolve Academy](https://evolveacademy.es), graduating in June 2025. The program is fully compatible with professional work.
 
-🧠 I'm passionate about transforming **textual data into actionable insights**, building Python-based projects that merge linguistic depth with data-driven analysis.
+🧠 I design and build Python-based projects that turn **text into insight** — blending linguistic depth, narrative awareness, and technical rigor. My work focuses on NLP, data extraction, and exploratory analysis applied to literature, culture, and meaning. These projects aren’t just academic: they’re built for curious minds (mine included) seeking to uncover **what usually goes unnoticed** in language.
 
-🚀 **Open to opportunities** in Data Analysis and NLP, where I can combine analytical thinking with storytelling and creativity.
+🚀 **Actively seeking opportunities** in Data Analysis and NLP where I can combine critical thinking, clear communication, and creativity to generate measurable impact — especially at the intersection of language, technology, and storytelling.
+
 
 ---
 
