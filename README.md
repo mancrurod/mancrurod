@@ -12,19 +12,25 @@ I'm a **Junior Data Analyst** with a background in **Linguistics**, **Digital Hu
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
-- [**Resume Optimization**](https://github.com/mancrurod/Resume-Optimization)  
+- 🧠 [**Resume Optimization**](https://github.com/mancrurod/Resume-Optimization)  
+  ![LLM](https://img.shields.io/badge/LLM-GPT--4-blue) ![PDF](https://img.shields.io/badge/Export-PDF-green)  
   LLM-powered pipeline that rewrites and scores resumes to fit job offers. Includes GPT-based adaptation and PDF export.
 
-- [**Scrape-The-Verse**](https://github.com/mancrurod/Scrape-The-Verse)  
+- 🎶 [**Scrape-The-Verse**](https://github.com/mancrurod/Scrape-The-Verse)  
+  ![ETL](https://img.shields.io/badge/ETL-Pipeline-purple) ![Lyrics](https://img.shields.io/badge/Dataset-SongLyrics-orange)  
   ETL project combining song lyrics and Spotify metadata. Explores the literary value of artists like Bob Dylan and Taylor Swift.
 
-- [**Lingua Animae**](https://github.com/mancrurod/LinguaAnimae) ![MVP](https://img.shields.io/badge/status-MVP-informational?style=flat-square) ![building](https://img.shields.io/badge/🏗️-Currently%20Building-blue?style=flat-square)  
+- 📖 [**Lingua Animae**](https://github.com/mancrurod/LinguaAnimae)  
+  ![MVP](https://img.shields.io/badge/status-MVP-informational?style=flat-square) ![building](https://img.shields.io/badge/🏗️-Currently%20Building-blue?style=flat-square)  
+  ![NLP](https://img.shields.io/badge/NLP-HuggingFace-yellow) ![App](https://img.shields.io/badge/Streamlit-App-red)  
   A thematic and emotional classifier for Bible verses using NLP and Hugging Face models. Combines web scraping, manual annotation, model fine-tuning, and Streamlit deployment.
 
-- [**Complete Python Course**](https://github.com/mancrurod/Complete_Python_Course)  
+- 🐍 [**Complete Python Course**](https://github.com/mancrurod/Complete_Python_Course)  
+  ![Learning](https://img.shields.io/badge/Learning-Resources-lightgrey) ![Curriculum](https://img.shields.io/badge/Python-Curriculum-blueviolet)  
   Solutions and notes from a structured Python curriculum for continuous learning.
+
 
 ---
 
@@ -49,4 +55,5 @@ I'm a **Junior Data Analyst** with a background in **Linguistics**, **Digital Hu
 📬 Want to connect or collaborate?  
 I'm open to new opportunities and projects — reach out via:
 📫 [mcruzrodriguez794@gmail.com](mailto:mcruzrodriguez794@gmail.com)  
-🌐 LinkedIn: [linkedin.com/in/mancrurod](https://linkedin.com/in/mancrurod)
+🔗 [Connect with me on LinkedIn](https://linkedin.com/in/mancrurod)
+
