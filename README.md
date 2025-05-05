@@ -52,8 +52,10 @@ I'm a **Junior Data Analyst** with a background in **Linguistics**, **Digital Hu
 
 
 
-📬 Want to connect or collaborate?  
+### 📬 Want to connect or collaborate? 
+
 I'm open to new opportunities and projects — reach out via:
+
 📫 [mcruzrodriguez794@gmail.com](mailto:mcruzrodriguez794@gmail.com)  
 🔗 [Connect with me on LinkedIn](https://linkedin.com/in/mancrurod)
 
