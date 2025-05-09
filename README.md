@@ -12,30 +12,40 @@ I'm a **Junior Data Analyst** with a background in **Linguistics**, **Digital Hu
 
 ## 🚀 Featured Projects
 
-- 🧠 [**Resume Optimization**](https://github.com/mancrurod/Resume-Optimization)
-  
-  ![LLM](https://img.shields.io/badge/LLM-GPT--4-blue) ![PDF](https://img.shields.io/badge/Export-PDF-green)
-  
-  LLM-powered pipeline that rewrites and scores resumes to fit job offers. Includes GPT-based adaptation and PDF export.
+### 🧠 Resume Optimization  
+[🔗 GitHub](https://github.com/mancrurod/Resume-Optimization)  
 
-- 🎶 [**Scrape-The-Verse**](https://github.com/mancrurod/Scrape-The-Verse)
-    
-  ![ETL](https://img.shields.io/badge/ETL-Pipeline-purple) ![Lyrics](https://img.shields.io/badge/Dataset-SongLyrics-orange)
-    
-  ETL project combining song lyrics and Spotify metadata. Explores the literary value of artists like Bob Dylan and Taylor Swift.
+![LLM](https://img.shields.io/badge/LLM-GPT--4-blue?style=for-the-badge)  ![Export](https://img.shields.io/badge/Export-PDF-green?style=for-the-badge)  
 
-- 📖 [**Lingua Animae**](https://github.com/mancrurod/LinguaAnimae)
-    
-  ![MVP](https://img.shields.io/badge/status-MVP-informational?style=flat-square) ![building](https://img.shields.io/badge/🏗️-Currently%20Building-blue?style=flat-square)  
-  ![NLP](https://img.shields.io/badge/NLP-HuggingFace-yellow) ![App](https://img.shields.io/badge/Streamlit-App-red)
-  
-  A thematic and emotional classifier for Bible verses using NLP and Hugging Face models. Combines web scraping, manual annotation, model fine-tuning, and Streamlit deployment.
+LLM-powered pipeline that rewrites and scores resumes to fit job offers. Includes GPT-based adaptation and PDF export.
 
-- 🐍 [**Complete Python Course**](https://github.com/mancrurod/Complete_Python_Course)
-  
-  ![Learning](https://img.shields.io/badge/Learning-Resources-lightgrey) ![Curriculum](https://img.shields.io/badge/Python-Curriculum-blueviolet)
+---
 
-  Solutions and notes from a structured Python curriculum for continuous learning.
+### 🎶 Scrape-The-Verse  
+[🔗 GitHub](https://github.com/mancrurod/Scrape-The-Verse)  
+
+![ETL](https://img.shields.io/badge/ETL-Pipeline-purple?style=for-the-badge)  ![Dataset](https://img.shields.io/badge/Dataset-SongLyrics-orange?style=for-the-badge)  
+
+ETL project combining song lyrics and Spotify metadata. Explores the literary value of artists like Bob Dylan and Taylor Swift.
+
+---
+
+### 📖 Lingua Animae  
+[🔗 GitHub](https://github.com/mancrurod/LinguaAnimae)  
+
+![Status](https://img.shields.io/badge/Status-MVP-informational?style=for-the-badge)  ![Progress](https://img.shields.io/badge/🛠️-Currently_Building-blue?style=for-the-badge)  ![NLP](https://img.shields.io/badge/NLP-HuggingFace-yellow?style=for-the-badge&logo=huggingface&logoColor=black)  ![App](https://img.shields.io/badge/Streamlit-App-red?style=for-the-badge&logo=streamlit&logoColor=white)
+
+A thematic and emotional classifier for Bible verses using NLP and Hugging Face models. Combines web scraping, manual annotation, model fine-tuning, and Streamlit deployment.
+
+---
+
+### 🐍 Complete Python Course  
+[🔗 GitHub](https://github.com/mancrurod/Complete_Python_Course)  
+
+![Learning](https://img.shields.io/badge/Learning-Resources-lightgrey?style=for-the-badge)  ![Curriculum](https://img.shields.io/badge/Python-Curriculum-blueviolet?style=for-the-badge)  
+
+Solutions and notes from a structured Python curriculum for continuous learning.
+
 
 
 ---
