@@ -1,34 +1,40 @@
 # 👋 Manuel Cruz Rodríguez — Linguist turned Data Analyst
 
-From editing texts to editing data
-
 ### 📊 Data Analyst | NLP | Humanities + AI | Python & Power BI
 
 I'm a **Junior Data Analyst** with a background in **Linguistics**, **Digital Humanities**, and **Natural Language Processing**. After graduating in Hispanic Philology, I earned two master’s degrees (*Digital Humanities* and *Creative Writing*) and I'm currently finishing a third in **Data Science & AI** at [Evolve Academy](https://evolveacademy.es), graduating in June 2025. The program is fully compatible with professional work.
 
-🧠 I design and build Python-based projects that turn **text into insight** — blending linguistic depth, narrative awareness, and technical rigor. My work focuses on NLP, data extraction, and exploratory analysis applied to literature, culture, and meaning. These projects aren’t just academic: they’re built for curious minds (mine included) seeking to uncover **what usually goes unnoticed** in language.
+🧠 I design and build Python-based projects that turn **text into insight**, blending linguistic depth, narrative awareness, and technical rigor. My work focuses on NLP, data extraction, and exploratory analysis applied to literature, culture, and meaning. These projects aren’t just academic: they’re built for curious minds (mine included) seeking to uncover **what usually goes unnoticed** in language.
 
-🚀 **Actively seeking opportunities** in Data Analysis and NLP where I can combine critical thinking, clear communication, and creativity to generate measurable impact — especially at the intersection of language, technology, and storytelling.
+🚀 **Actively seeking opportunities** in Data Analysis and NLP where I can combine critical thinking, clear communication, and creativity to generate measurable impact, especially at the intersection of language, technology, and storytelling.
 
 ---
 
 ## 🚀 Featured Projects
 
-- 🧠 [**Resume Optimization**](https://github.com/mancrurod/Resume-Optimization)  
-  ![LLM](https://img.shields.io/badge/LLM-GPT--4-blue) ![PDF](https://img.shields.io/badge/Export-PDF-green)  
+- 🧠 [**Resume Optimization**](https://github.com/mancrurod/Resume-Optimization)
+  
+  ![LLM](https://img.shields.io/badge/LLM-GPT--4-blue) ![PDF](https://img.shields.io/badge/Export-PDF-green)
+  
   LLM-powered pipeline that rewrites and scores resumes to fit job offers. Includes GPT-based adaptation and PDF export.
 
-- 🎶 [**Scrape-The-Verse**](https://github.com/mancrurod/Scrape-The-Verse)  
-  ![ETL](https://img.shields.io/badge/ETL-Pipeline-purple) ![Lyrics](https://img.shields.io/badge/Dataset-SongLyrics-orange)  
+- 🎶 [**Scrape-The-Verse**](https://github.com/mancrurod/Scrape-The-Verse)
+    
+  ![ETL](https://img.shields.io/badge/ETL-Pipeline-purple) ![Lyrics](https://img.shields.io/badge/Dataset-SongLyrics-orange)
+    
   ETL project combining song lyrics and Spotify metadata. Explores the literary value of artists like Bob Dylan and Taylor Swift.
 
-- 📖 [**Lingua Animae**](https://github.com/mancrurod/LinguaAnimae)  
+- 📖 [**Lingua Animae**](https://github.com/mancrurod/LinguaAnimae)
+    
   ![MVP](https://img.shields.io/badge/status-MVP-informational?style=flat-square) ![building](https://img.shields.io/badge/🏗️-Currently%20Building-blue?style=flat-square)  
-  ![NLP](https://img.shields.io/badge/NLP-HuggingFace-yellow) ![App](https://img.shields.io/badge/Streamlit-App-red)  
+  ![NLP](https://img.shields.io/badge/NLP-HuggingFace-yellow) ![App](https://img.shields.io/badge/Streamlit-App-red)
+  
   A thematic and emotional classifier for Bible verses using NLP and Hugging Face models. Combines web scraping, manual annotation, model fine-tuning, and Streamlit deployment.
 
-- 🐍 [**Complete Python Course**](https://github.com/mancrurod/Complete_Python_Course)  
-  ![Learning](https://img.shields.io/badge/Learning-Resources-lightgrey) ![Curriculum](https://img.shields.io/badge/Python-Curriculum-blueviolet)  
+- 🐍 [**Complete Python Course**](https://github.com/mancrurod/Complete_Python_Course)
+  
+  ![Learning](https://img.shields.io/badge/Learning-Resources-lightgrey) ![Curriculum](https://img.shields.io/badge/Python-Curriculum-blueviolet)
+
   Solutions and notes from a structured Python curriculum for continuous learning.
 
 
