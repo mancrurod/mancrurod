@@ -77,7 +77,7 @@ Solutions and notes from a structured Python curriculum for continuous learning.
 
 ### 📬 Want to connect or collaborate? 
 
-I'm open to new opportunities and projects — reach out via:
+I'm open to new opportunities and projects. Reach out via:
 
 📫 [mcruzrodriguez794@gmail.com](mailto:mcruzrodriguez794@gmail.com)  
 🔗 [Connect with me on LinkedIn](https://linkedin.com/in/mancrurod)
