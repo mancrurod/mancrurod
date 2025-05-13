@@ -39,17 +39,6 @@ A thematic and emotional classifier for Bible verses using NLP and Hugging Face 
 
 ---
 
-### 🐍 Complete Python Course  
-[🔗 GitHub](https://github.com/mancrurod/Complete_Python_Course)  
-
-![Learning](https://img.shields.io/badge/Learning-Resources-lightgrey?style=for-the-badge)  ![Curriculum](https://img.shields.io/badge/Python-Curriculum-blueviolet?style=for-the-badge)  
-
-Solutions and notes from a structured Python curriculum for continuous learning.
-
-
-
----
-
 ## 🧰 Skills and Tools
 
 ### 🧑‍💻 Languages & Analysis  
