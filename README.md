@@ -15,7 +15,8 @@ I'm a **Junior Data Analyst** with a background in **Linguistics**, **Digital Hu
 ### 📖 Lingua Animae  
 [🔗 GitHub](https://github.com/mancrurod/LinguaAnimae)  
 
-![Status](https://img.shields.io/badge/Status-MVP-informational?style=for-the-badge)  ![Progress](https://img.shields.io/badge/🛠️-Currently_Building-blue?style=for-the-badge)  ![NLP](https://img.shields.io/badge/NLP-HuggingFace-yellow?style=for-the-badge&logo=huggingface&logoColor=black)  ![App](https://img.shields.io/badge/Streamlit-App-red?style=for-the-badge&logo=streamlit&logoColor=white)
+![Status](https://img.shields.io/badge/Status-MVP-informational?style=for-the-badge) ![Ready](https://img.shields.io/badge/MVP-Ready-brightgreen?style=for-the-badge) ![NLP](https://img.shields.io/badge/NLP-HuggingFace-yellow?style=for-the-badge&logo=huggingface&logoColor=black) ![App](https://img.shields.io/badge/Streamlit-App-red?style=for-the-badge&logo=streamlit&logoColor=white)
+
 
 A thematic and emotional classifier for Bible verses using NLP and Hugging Face models. Combines web scraping, manual annotation, model fine-tuning, and Streamlit deployment.
 
