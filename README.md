@@ -10,6 +10,22 @@ I'm a **Junior Data Scientist** with a background in **Linguistics**, **Digital 
 
 ---
 
+## 🧰 Skills and Tools
+
+### 🧑‍💻 Languages & Analysis  
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)  ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  ![NLP](https://img.shields.io/badge/NLP-HuggingFace-yellow?style=for-the-badge&logo=huggingface&logoColor=black)  ![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+### 📊 Visualization & Reporting  
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)  ![Seaborn](https://img.shields.io/badge/Seaborn-3D3D3D?style=for-the-badge)  ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
+### 🔍 Scraping & Automation  
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B0082?style=for-the-badge)  ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)  ![Genius API](https://img.shields.io/badge/Genius_API-FFFC00?style=for-the-badge&logo=genius&logoColor=black)  ![Spotipy](https://img.shields.io/badge/Spotipy-1DB954?style=for-the-badge&logo=spotify&logoColor=white)
+
+### 🛠 Version Control & Workflow  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) 
+
+---
+
 ## 🚀 Featured Projects
 
 ### 📖 Lingua Animae  
@@ -38,23 +54,6 @@ ETL project combining song lyrics and Spotify metadata. Explores the literary va
 LLM-powered pipeline that rewrites and scores resumes to fit job offers. Includes GPT-based adaptation and PDF export.
 
 ---
-
-## 🧰 Skills and Tools
-
-### 🧑‍💻 Languages & Analysis  
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)  ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  ![NLP](https://img.shields.io/badge/NLP-HuggingFace-yellow?style=for-the-badge&logo=huggingface&logoColor=black)  ![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-### 📊 Visualization & Reporting  
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)  ![Seaborn](https://img.shields.io/badge/Seaborn-3D3D3D?style=for-the-badge)  ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-
-### 🔍 Scraping & Automation  
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B0082?style=for-the-badge)  ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)  ![Genius API](https://img.shields.io/badge/Genius_API-FFFC00?style=for-the-badge&logo=genius&logoColor=black)  ![Spotipy](https://img.shields.io/badge/Spotipy-1DB954?style=for-the-badge&logo=spotify&logoColor=white)
-
-### 🛠 Version Control & Workflow  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) 
-
----
-
 
 
 ### 📬 Want to connect or collaborate? 
