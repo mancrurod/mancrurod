@@ -7,8 +7,8 @@ Hi! I'm Manuel 😁
 A **Junior Data Scientist** who started out studying **literature, linguistics, and storytelling**. These days, I build tools to explore how language works using **Python, NLP, and AI**.
 
 My background in **Philology** and  **Digital Humanities** taught me to look closely at words. That same attention to detail now guides my approach to data science and machine learning.
-
 I focus on **natural language processing**, **data extraction**, and **text analytics**, especially in cultural and creative domains.  
+I'm constantly learning, love iterative design, and care about how users actually interact with data tools.
 
 I don’t just crunch text.  
 I try to listen to it.
@@ -44,7 +44,7 @@ I try to listen to it.
 [![Lingua Animae Repo](https://img.shields.io/badge/GITHUB%20REPO-333333?style=for-the-badge&logo=github&logoColor=white&labelColor=333333)](https://github.com/mancrurod/LinguaAnimae)
 [![Streamlit App](https://img.shields.io/badge/STREAMLIT%20APP-333333?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=333333)](https://your-app-url.streamlit.app)
 
-This project classifies Bible verses by emotion and theme. It combines web scraping, manual annotation, Hugging Face models, and an interactive frontend using Streamlit.
+This MVP project classifies user input by emotion and theme and connects the user to Bible verses. It combines web scraping, manual annotation, Hugging Face models, and an interactive frontend using Streamlit.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
@@ -63,6 +63,7 @@ This project classifies Bible verses by emotion and theme. It combines web scrap
 [![Scrape-The-Verse Repo](https://img.shields.io/badge/GITHUB%20REPO-333333?style=for-the-badge&logo=github&logoColor=white&labelColor=333333)](https://github.com/mancrurod/Scrape-The-Verse)
 
 This project extracts and transforms Spotify data and lyrics for artists like Bob Dylan and Taylor Swift. It includes metadata scraping, lyric alignment, and exploratory analysis of lyrical complexity and literary quality.
+Used Power BI to generate dashboards comparing lyrical complexity across albums.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
@@ -99,10 +100,10 @@ This project streamlines the process of resume customization using LLMs (GPT-bas
 ---
 
 
-### 📬 Want to connect or collaborate? 
+### 🌍 Find me online
 
-I'm open to new opportunities and projects. Reach out via:
-
-📫 [mcruzrodriguez794@gmail.com](mailto:mcruzrodriguez794@gmail.com)  
-🔗 [Connect with me on LinkedIn](https://linkedin.com/in/mancrurod)
+I'm always open to new opportunities or collaborations.  
+Feel free to reach out!
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mcruzrodriguez794@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mancrurod)
 
