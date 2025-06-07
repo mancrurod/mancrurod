@@ -51,7 +51,10 @@ I try to listen to it.
 [![Lingua Animae Repo](https://img.shields.io/badge/GITHUB%20REPO-333333?style=for-the-badge&logo=github&logoColor=white&labelColor=333333)](https://github.com/mancrurod/LinguaAnimae)
 [![Streamlit App](https://img.shields.io/badge/STREAMLIT%20APP-333333?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=333333)](https://your-app-url.streamlit.app)
 
-This MVP project classifies user input by emotion and theme and connects the user to Bible verses. It combines web scraping, manual annotation, Hugging Face models, and an interactive frontend using Streamlit.
+This MVP project classifies user input by emotion and theme, and connects it to relevant Bible verses.  
+It combines web scraping, manual annotation, Hugging Face models, and an interactive frontend using Streamlit.
+
+> 💬 Over 80% of beta testers described the experience of *literary empathy* as meaningful and necessary.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
@@ -70,7 +73,7 @@ This MVP project classifies user input by emotion and theme and connects the use
 [![Scrape-The-Verse Repo](https://img.shields.io/badge/GITHUB%20REPO-333333?style=for-the-badge&logo=github&logoColor=white&labelColor=333333)](https://github.com/mancrurod/Scrape-The-Verse)
 
 This project extracts and transforms Spotify data and lyrics for artists like Bob Dylan and Taylor Swift. It includes metadata scraping, lyric alignment, and exploratory analysis of lyrical complexity and literary quality.
-Used Power BI to generate dashboards comparing lyrical complexity across albums.
+Created interactive dashboards in Power BI to explore and compare the lyrical complexity of Bob Dylan and Taylor Swift.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
@@ -91,8 +94,10 @@ Used Power BI to generate dashboards comparing lyrical complexity across albums.
 
 [![Resume Optimization Repo](https://img.shields.io/badge/GITHUB%20REPO-333333?style=for-the-badge&logo=github&logoColor=white&labelColor=333333)](https://github.com/mancrurod/Resume-Optimization)
 
-This project streamlines the process of resume customization using LLMs (GPT-based or Gemini), converting `.docx` files to structured Markdown, optimizing content, and exporting visually clean PDF versions.
-It includes job-specific adaptation, keyword alignment, and fully modular scripts.
+This project streamlines the process of resume customization using LLMs (GPT-based or Gemini).  
+It converts `.docx` files into structured Markdown, adapts the content to match specific job offers, and exports polished, reader-friendly PDFs.
+
+The pipeline includes keyword alignment, language optimization, and fully modular Python scripts ready for reuse and iteration.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
