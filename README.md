@@ -6,8 +6,6 @@ I'm a **Junior Data Scientist** with a background in **Linguistics**, **Digital 
 
 🧠 I design and build Python-based projects that turn **text into insight**, blending linguistic depth, narrative awareness, and technical rigor. My work focuses on NLP, data extraction, and exploratory analysis applied to literature, culture, and meaning. These projects aren’t just academic: they’re built for curious minds (mine included) seeking to uncover **what usually goes unnoticed** in language.
 
-🚀 **Actively seeking opportunities** in Data Analysis and NLP where I can combine critical thinking, clear communication, and creativity to generate measurable impact, especially at the intersection of language, technology, and storytelling.
-
 ---
 
 ## 🧰 Skills and Tools
