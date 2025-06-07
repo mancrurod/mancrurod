@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://i.imgur.com/XZtn3Fn.png" alt="Banner" width="100%" />
+</p>
+
+
 # 👋 It's me, hi!
 
 ### 🧠 From language to data. From meaning to models.
