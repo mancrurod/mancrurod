@@ -6,7 +6,7 @@ I'm the problem, it's m… ehm, that wasn't it. Okay, let's start again.
 Hi! I'm Manuel 😁  
 A **Junior Data Scientist** who started out studying **literature, linguistics, and storytelling**. These days, I build tools to explore how language works using **Python, NLP, and AI**.
 
-My background in **Philology** and  **Digital Humanities** taught me to look closely at words. That same attention to detail now guides my approach to data science and machine learning.
+My background in **Philology** and **Digital Humanities** taught me to look closely at words. That same attention to detail now guides my approach to data science and machine learning.
 I focus on **natural language processing**, **data extraction**, and **text analytics**, especially in cultural and creative domains.  
 I'm constantly learning, love iterative design, and care about how users actually interact with data tools.
 
@@ -37,11 +37,11 @@ I try to listen to it.
 
 ## 🚀 Featured Projects
 
-| Project             | Focus                        | Tools & Stack                                  | Status  |
-|---------------------|-------------------------------|-------------------------------------------------|---------|
-| Lingua Animae       | NLP classification (Bible)   | Python, HF Transformers, Streamlit              | MVP     |
-| Scrape-The-Verse    | ETL + Literary Analytics     | Spotify API, Genius, Power BI, NLP libs         | Live  |
-| Resume Optimization | LLM-based resume rewriting   | OpenAI/Gemini, Markdown, PDF export             | In-Dev    |
+| Project             | Focus                        | Tools & Stack                                  | Status         |
+|---------------------|-------------------------------|-------------------------------------------------|----------------|
+| Lingua Animae       | NLP classification (Bible)   | Python, HF Transformers, Streamlit              | MVP            |
+| Scrape-The-Verse    | ETL + Literary Analytics     | Spotify API, Genius, Power BI, NLP libs         | Production     |
+| Resume Optimization | LLM-based resume rewriting   | OpenAI/Gemini, Markdown, PDF export             | In Development |
 
 
 ### 📖 Lingua Animae
