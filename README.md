@@ -37,6 +37,13 @@ I try to listen to it.
 
 ## 🚀 Featured Projects
 
+| Project             | Focus                        | Tools & Stack                                  | Status  |
+|---------------------|-------------------------------|-------------------------------------------------|---------|
+| Lingua Animae       | NLP classification (Bible)   | Python, HF Transformers, Streamlit              | MVP     |
+| Scrape-The-Verse    | ETL + Literary Analytics     | Spotify API, Genius, Power BI, NLP libs         | Live  |
+| Resume Optimization | LLM-based resume rewriting   | OpenAI/Gemini, Markdown, PDF export             | In-Dev    |
+
+
 ### 📖 Lingua Animae
 
 > _A thematic and emotional classifier for Bible verses using NLP and open-source models._
@@ -85,6 +92,7 @@ Used Power BI to generate dashboards comparing lyrical complexity across albums.
 [![Resume Optimization Repo](https://img.shields.io/badge/GITHUB%20REPO-333333?style=for-the-badge&logo=github&logoColor=white&labelColor=333333)](https://github.com/mancrurod/Resume-Optimization)
 
 This project streamlines the process of resume customization using LLMs (GPT-based or Gemini), converting `.docx` files to structured Markdown, optimizing content, and exporting visually clean PDF versions.
+It includes job-specific adaptation, keyword alignment, and fully modular scripts.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
@@ -104,6 +112,7 @@ This project streamlines the process of resume customization using LLMs (GPT-bas
 
 I'm always open to new opportunities or collaborations.  
 Feel free to reach out!
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mcruzrodriguez794@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mancrurod)
 
