@@ -2,9 +2,7 @@
 
 ### 📊 Data Science | NLP | Humanities + AI | Python & Power BI
 
-I'm a **Junior Data Scientist** with a background in **Linguistics**, **Digital Humanities**, and **Natural Language Processing**. After graduating in Hispanic Philology, I earned two master’s degrees (*Digital Humanities* and *Creative Writing*) and I'm currently finishing a third in **Data Science & AI** at [Evolve Academy](https://evolveacademy.es), graduating in June 2025. The program is fully compatible with professional work.
-
-🧠 I design and build Python-based projects that turn **text into insight**, blending linguistic depth, narrative awareness, and technical rigor. My work focuses on NLP, data extraction, and exploratory analysis applied to literature, culture, and meaning. These projects aren’t just academic: they’re built for curious minds (mine included) seeking to uncover **what usually goes unnoticed** in language.
+Hey there, I'm Manuel! 😁 A **Junior Data Scientist** with a background in **Linguistics**, **Literature**, **Digital Humanities**, and **Natural Language Processing**. I design and build Python-based projects that turn **text into insight**, blending linguistic depth, narrative awareness, and technical rigor. My work focuses on NLP, data extraction, and exploratory analysis applied to literature, culture, and meaning. These projects aren’t just academic: they’re built for curious minds (mine included) seeking to uncover **what usually goes unnoticed** in language.
 
 ---
 
